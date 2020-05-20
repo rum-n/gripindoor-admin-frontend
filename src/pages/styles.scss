@@ -1,0 +1,16 @@
+$primary-color: #282c34;
+$font: 'Inter';
+
+h1 {
+    font-family: $font;
+    color: $primary-color;
+    font-weight: 500;
+    font-size: 1em;
+    position: static;
+    margin-bottom: 40px;
+}
+
+.content {
+    margin-left: 320px;
+    margin-top: 20px;
+}
