@@ -6,7 +6,16 @@ function Routes() {
   return (
     <div className='content'>
         <h1>Routes</h1>
-        <RouteCard />
+        <hr/>
+        <div className='routeList'>
+          <RouteCard />
+          <RouteCard />
+          <RouteCard />
+          <RouteCard />
+          <RouteCard />
+          <RouteCard />
+          <RouteCard />
+        </div>
     </div> 
   );
 }
